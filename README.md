@@ -108,3 +108,7 @@ Adapt types to your needs
 
 - [assets/charizard.webp](https://github.com/Guilherme23645/tcg-pokemon-cards-database/blob/main/assets/charizard.webp)
 - db_scripts/ (tables, migrations, seeds, views — add SQL here)
+
+## Screenshots
+
+<img width="1280" height="863" alt="image" src="https://github.com/user-attachments/assets/ce3c5734-f4e4-495c-9c00-92c813c53036" />
